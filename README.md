@@ -1,6 +1,6 @@
 # Nicolas Pilegi De Nigris
 
-Desenvolvedor de software em São Paulo. Foco em acessibilidade,
+Desenvolvedor de software em São Paulo. Acessibilidade,
 sistemas resilientes e código que se sustenta em produção.
 
 ## Case studies
