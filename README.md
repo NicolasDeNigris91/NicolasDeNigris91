@@ -1,7 +1,6 @@
 # Nicolas Pilegi De Nigris
 
-Desenvolvedor de software em São Paulo. Acessibilidade,
-sistemas resilientes e código que se sustenta em produção.
+Desenvolvedor de software em São Paulo. Paixão por segurança e performance
 
 18 cursos formais (~370h) entre 2025–2026, em pivot deliberado de 6 anos em vendas de alto envolvimento para engenharia.
 
