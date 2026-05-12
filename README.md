@@ -20,5 +20,5 @@ Desenvolvedor de software em São Paulo. Paixão por segurança e performance
 ## Contato
 
 - Site: [nicolaspilegidenigris.dev](https://nicolaspilegidenigris.dev)
-- LinkedIn: [nicolas-pilegi-de-nigris](https://www.linkedin.com/in/nicolas-pilegi-de-nigris-10ab0a349)
+- LinkedIn: [nicolas-pilegi-de-nigris](https://www.linkedin.com/in/nicolasdenigris/)
 - Email: nicolas.denigris91@icloud.com
