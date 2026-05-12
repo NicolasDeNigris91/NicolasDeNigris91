@@ -2,7 +2,7 @@
 
 Desenvolvedor de software em São Paulo. Paixão por segurança e performance
 
-18 cursos formais (~370h) entre 2025–2026, em pivot deliberado de 6 anos em vendas de alto envolvimento para engenharia.
+18 cursos formais (~370h) entre 2025–2026, em pivot deliberado de uma decada em vendas de alto envolvimento para engenharia.
 
 ## Case studies
 
